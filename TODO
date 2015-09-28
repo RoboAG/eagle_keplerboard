@@ -1,0 +1,6 @@
+Circuit:
+  micromatch - connector: tx and rx are not green
+
+layout:
+  capacitor C_F4 as smd
+

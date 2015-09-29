@@ -1,4 +1,8 @@
-Circuit:
+error in ISP-connector
+  pin1(MOSI) is connected to PB4(OC0) instead of PB2(MOSI)
+  workaround: disconnect jumpers from motor driver and connect pin1(PB2) & pin3(PB4)
+
+circuit:
   micromatch - connector: tx and rx are not green
 
 layout:

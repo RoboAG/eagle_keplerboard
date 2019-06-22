@@ -1,6 +1,9 @@
 error in ISP-connector
   see bugfix
 
+error in Label for PortE
+  see bugfix
+
 circuit:
   micromatch - connector: tx and rx are not green
 
